@@ -1,0 +1,1 @@
+ALTER TABLE `disaster_reports` ADD `photo_urls` text;

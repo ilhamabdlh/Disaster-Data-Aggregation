@@ -1,0 +1,1 @@
+ALTER TABLE `disaster_reports` ADD `report_type` text DEFAULT 'disaster' NOT NULL;

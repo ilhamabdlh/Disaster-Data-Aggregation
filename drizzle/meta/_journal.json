@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1764747774442,
+      "tag": "0000_breezy_talos",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1764755964045,
+      "tag": "0001_same_crusher_hogan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1764762770151,
+      "tag": "0002_blue_black_tom",
+      "breakpoints": true
+    }
+  ]
+}
